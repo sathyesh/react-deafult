@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a default React project to check security threats in core and its dependencies
+
+## npm audit results
+
+After running npm audit command, found 0 vulnerabilities in 906524 scanned packages.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
