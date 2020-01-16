@@ -1,6 +1,6 @@
 ## react-default
 
-[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/react-default/badge.svg)](https://snyk.io/test/github/sathyesh/react-default)
+[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/react-deafult/badge.svg)](https://snyk.io/test/github/sathyesh/react-deafult)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
