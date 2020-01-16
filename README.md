@@ -1,3 +1,7 @@
+## react-default
+
+[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/react-default/badge.svg)](https://snyk.io/test/github/sathyesh/react-default)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This is a default React project to check security threats in core and its dependencies
