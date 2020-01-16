@@ -1,6 +1,6 @@
 ## react-deafult
 
-[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/react-deafult/badge.svg)](https://snyk.io/test/github/sathyesh/react-deafult)
+[![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/react-deafult/badge.svg?targetFile=package.json)](https://snyk.io/test/github/sathyesh/react-deafult?targetFile=package.json)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
