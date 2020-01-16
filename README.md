@@ -1,4 +1,4 @@
-## react-default
+## react-deafult
 
 [![Known Vulnerabilities](https://snyk.io/test/github/sathyesh/react-deafult/badge.svg)](https://snyk.io/test/github/sathyesh/react-deafult)
 
